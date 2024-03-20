@@ -1,5 +1,4 @@
 const { EmbedBuilder } = require('discord.js');
-const fs = require('fs');
 const path = require('path');
 const db = require("../mongodb");
 // Function to load the prefix from the JSON file
